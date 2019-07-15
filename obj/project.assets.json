@@ -6416,23 +6416,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\windows\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
+    "C:\\Users\\Rogers\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files (x86)\\Jenkins\\workspace\\onlynuget\\demoappaz.csproj",
+      "projectUniqueName": "C:\\Users\\Rogers\\source\\repos\\demoappaz\\demoappaz\\demoappaz.csproj",
       "projectName": "demoappaz",
-      "projectPath": "C:\\Program Files (x86)\\Jenkins\\workspace\\onlynuget\\demoappaz.csproj",
-      "packagesPath": "C:\\windows\\system32\\config\\systemprofile\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files (x86)\\Jenkins\\workspace\\onlynuget\\obj\\",
+      "projectPath": "C:\\Users\\Rogers\\source\\repos\\demoappaz\\demoappaz\\demoappaz.csproj",
+      "packagesPath": "C:\\Users\\Rogers\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rogers\\source\\repos\\demoappaz\\demoappaz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\windows\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rogers\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
